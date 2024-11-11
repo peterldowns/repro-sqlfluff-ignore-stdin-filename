@@ -1,3 +1,5 @@
+Reported upstream [at sqlfluff/sqlfluff#6449](https://github.com/sqlfluff/sqlfluff/issues/6449).
+
 Setup and background:
 
 ```sh
